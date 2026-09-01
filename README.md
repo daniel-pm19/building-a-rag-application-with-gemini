@@ -1,8 +1,6 @@
 # Building a RAG Application with Gemini
 
-Homework for the workshop *RAG, LLM architecture and agentic patterns*. It adapts the
-workshop's professional RAG stack (`03_real_llm_rag_agentic_patterns.ipynb`) to a new,
-self-chosen document collection and adds an evaluation.
+Notebook for *RAG, LLM architecture and agentic patterns*.
 
 **Author:** Daniel Patiño Mejia
 
@@ -228,5 +226,4 @@ building-a-rag-application-with-gemini/
 ├── README.md
 ├── .env.example               # variable names, no secrets
 ├── .gitignore                 # ignores .env and chroma_web_rag_db/
-└── chroma_web_rag_db/         # local vector store - git-ignored, rebuilt by section 2.4
-```
+└── chroma_web_rag_db/         # local vector store - git-ignored, rebuilt by 
