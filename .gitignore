@@ -1,0 +1,16 @@
+# Secrets - never commit
+.env
+
+# Local build artifacts (the Chroma index is rebuilt by notebook section 2.4)
+chroma_web_rag_db/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+.venv-*/
+venv/
+
+# OS / editor
+.DS_Store

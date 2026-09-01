@@ -1,0 +1,32 @@
+[
+  {
+    "source_id": "ECIJG",
+    "title": "Ingeniería de Sistemas - Escuela Colombiana de Ingeniería Julio Garavito",
+    "url": "https://www.escuelaing.edu.co/es/programas/ingenieria-de-sistemas/",
+    "fallback_url": "https://www.escuelaing.edu.co/es/",
+    "expected_question": "What emphasis does the Systems Engineering program offer?",
+    "why_selected": "Home institution of this course; the program page is the authoritative description of the Systems Engineering curriculum and its emphases. Spanish-language source, so it also tests retrieval on a non-English page.",
+    "license_note": "Public web page, publicly accessible, read-only, no login required.",
+    "retrieved": "2026-08-31"
+  },
+  {
+    "source_id": "CACHYOS",
+    "title": "CachyOS - Blazingly Fast OS based on Arch Linux",
+    "url": "https://cachyos.org/",
+    "fallback_url": "https://cachyos.org/",
+    "expected_question": "Why is CachyOS different from other Linux distributions?",
+    "why_selected": "A short, dense product landing page from a personal-interest technical domain (Linux distributions). Its text is compact and claim-heavy, which contrasts with the long ECIJG page and the mid-sized AWS page.",
+    "license_note": "Public web page, publicly accessible, read-only, no login required.",
+    "retrieved": "2026-08-31"
+  },
+  {
+    "source_id": "AWS",
+    "title": "Global Infrastructure - AWS",
+    "url": "https://aws.amazon.com/about-aws/global-infrastructure/",
+    "fallback_url": "https://aws.amazon.com/",
+    "expected_question": "What is the global infrastructure of AWS?",
+    "why_selected": "A well-scoped page on a single technical topic (cloud regions and availability zones) with concrete figures, useful for testing whether the answer stays grounded in specific numbers rather than paraphrasing.",
+    "license_note": "Public web page, publicly accessible, read-only, no login required.",
+    "retrieved": "2026-08-31"
+  }
+]
